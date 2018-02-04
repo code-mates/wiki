@@ -1,3 +1,9 @@
+---
+layout: page
+title: Notes
+permalink: /notes/
+---
+
 # Create a new repository and commit changes:
 
 0. From folder ~/GitHub/
